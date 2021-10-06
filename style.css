@@ -49,6 +49,30 @@ body {
     background-color: rgb(243, 156, 18);
 }
 
+.btnSubmit {
+    background-color: rgb(241, 196, 15);
+    border-radius: 0.7rem;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px 50px;
+    margin: auto;
+}
+
+.btnSubmit:hover {
+    background-color: rgb(243, 156, 18);
+}
+
+.btnBack {
+    border-radius: 0.7rem;
+    text-align: center;
+    color: black;
+    font-weight: bold;
+    padding: 10px 50px;
+    margin: auto;
+    margin-left: 15px;
+}
+
 .footer {
     text-align: center;
     font-size: smaller;
